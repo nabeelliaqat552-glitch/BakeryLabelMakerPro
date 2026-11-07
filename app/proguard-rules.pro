@@ -1,0 +1,2 @@
+-keep class com.bakerylabel.pro.data.** { *; }
+-dontwarn com.google.zxing.**

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="maroon">#FF7A1F2B</color>
+    <color name="maroon_dark">#FF4E0F18</color>
+    <color name="gold">#FFD4A944</color>
+    <color name="cream">#FFFFF8EC</color>
+    <color name="chocolate">#FF4A2C21</color>
+    <color name="black">#FF121010</color>
+    <color name="ic_launcher_background">#FF7A1F2B</color>
+</resources>
